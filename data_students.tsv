@@ -1,0 +1,27 @@
+student_id	name	student's age	sex of student	location	math grade	science	history	grade in english
+1	Alice	23	Female	Houston, TX	90	60	71	72
+2	Benjamin	31	Male	Phoenix, AZ	85	82	74	77
+3	Charlotte	30	Neither	Chicago, IL	69	74	98	94
+4	Daniel	24	Unknown	Denver, CO	70	80	73	64
+5	Eleanor		male	Atlanta, GA	100	97	64	100
+6	Fiona	27	Female	Miami, FL	94	90	75	93
+7	Grace	28	neither	Seattle, WA	90	90	81	92
+8	Henry	21	Unknown	Boston, MA	64	78	60	64
+9	Isabella	28	Male	Austin, TX	86	86	97	83
+10	Jack	19	female	Portland, OR	81	94	98	77
+11	Katherine		Unknown	Detroit, MI	63	86	94	92
+12	Liam	35	Neither	Las Vegas, NV	75	64	94	72
+13	Mia	27	unknown	Charlotte, NC	61	83	96	78
+14	Nathan	26	Male	Dallas, TX	81	62	78	90
+15	Olivia	23	Neither	San Francisco, CA	77	100	92	81
+16	Penelope	22	female	Minneapolis, MN	67	95	94	72
+17	Quincy	29	Unknown	New York, NY	92	75	90	62
+18	Rachel	24	neither	Nashville, TN	94	100	74	81
+19	Samuel	18	Male	Philadelphia, PA	68	70	67	64
+20	Taylor		Female	Los Angeles, CA	95	66	90	95
+21	Uma		Unknown	Salt Lake City, UT	86	78	98	80
+22	Victor	20	Neither	New Orleans, LA	81	77	66	90
+23	William	34	unknown	Indianapolis, IN	69	98	99	91
+24	Xander	23	neither	San Diego, CA	85	79	77	92
+25	Yasmine		male	Kansas City, MO	90	70	80	88
+26	Zachary	18	Female	Raleigh, NC	96	95	78	69

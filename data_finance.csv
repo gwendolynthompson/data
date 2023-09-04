@@ -1,0 +1,26 @@
+transaction_id,product_name,quantity,price
+1,Apple,7,12.34
+2,Banana,2,19.05
+3,Cherry,9,5.81
+4,Date,4,1.76
+5,Elderberry,8,10.45
+6,Fig,3,18.22
+7,Grape,1,7.09
+8,Honeydew,5,23.48
+9,Jackfruit,10,2.56
+10,Kiwi,6,9.71
+11,Lemon,7,4.23
+12,Mango,3,14.12
+13,Nectarine,2,6.87
+14,Orange,6,3.14
+15,Papaya,9,22.77
+16,Quince,8,8.65
+17,Raspberry,4,16.98
+18,Strawberry,1,0.99
+19,Tomato,5,11.11
+20,Ugli fruit,10,20.43
+21,Vanilla bean,9,17.29
+22,Watermelon,8,13.67
+23,Xigua,3,21.89
+24,Yellow passion fruit,2,15.54
+25,Zucchini,6,24.72
